@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/work/vscode_projects/mlflow_pytorch/research_env/mlruns/0/7b71d7e9a60540f8ab24189ffe3b3221/artifacts
+end_time: 1650640583615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7b71d7e9a60540f8ab24189ffe3b3221
+run_uuid: 7b71d7e9a60540f8ab24189ffe3b3221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650640580291
+status: 3
+tags: []
+user_id: ARUN
